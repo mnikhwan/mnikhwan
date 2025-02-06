@@ -8,8 +8,10 @@
   - [Website] [mnikhwan Portfolio](https://mnikhwan.xyz/)
   - [Website] [Brownies Tiwol](https://brownistiwol.xyz/)
 - 📋 Projects:
-  - Elainaイレイナ Discord Bot [[Top.gg]](https://top.gg/bot/765085399944658944)
-  - Unisri Store
+  - [🆕] LIMITA (Lihat Bumi Kita)
+  - [✔] Unisri Store
+  - [✔] Elainaイレイナ Discord Bot [[Top.gg]](https://top.gg/bot/765085399944658944)
+  
 
 
 
